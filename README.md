@@ -1,9 +1,7 @@
 # Welcome to my Github profile! 👋
----
 I am Justin, a Junior Penetration Tester with a strong passion in cyber security, web development, and all things cyber. 
 
 #  💪 Skills 💪
----
 - 🔐 VAPT
 - 🐧 Linux expertise 
 - ⚙️ System Administration 
@@ -12,7 +10,6 @@ I am Justin, a Junior Penetration Tester with a strong passion in cyber security
 - 💻 Scripting (Bash, Python, C, Golang, Java, Rust, HTML, CSS, Javascript)
 
 # Contact Me 
----
 You can reach me at:
 - ✉️ Justinkombe.offsec@outlook.com 
 - 📚 https://medium.com/@justinkt

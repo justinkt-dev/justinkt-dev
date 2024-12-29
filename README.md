@@ -11,7 +11,7 @@ I am Justin, a Junior Penetration Tester with a strong passion in cyber security
 
 # Contact Me 
 You can reach me at:
-- ✉️ Justinkombe.offsec@outlook.com 
+- ✉️  jktonguino01@gmail.com 
 - 📚 https://medium.com/@justinkt
 - 🤝 Open to collaborations and opportunities!
 

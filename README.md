@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to my Github profile! 👋
+---
+I am Justin, a Junior Penetration Tester with a strong passion in cyber security, web development, and all things cyber. 
 
-<!--
-**Jktonguino225/jktonguino225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  💪 Skills 💪
+---
+- 🔐 VAPT
+- 🐧 Linux expertise 
+- ⚙️ System Administration 
+- 🌐 Web Application Security
+- 🧩 Problem Solving & Troubleshooting
+- 💻 Scripting (Bash, Python, C, Golang, Java, Rust, HTML, CSS, Javascript)
 
-Here are some ideas to get you started:
+# Contact Me 
+---
+You can reach me at:
+- ✉️ Justinkombe.offsec@outlook.com 
+- 📚 https://medium.com/@justinkt
+- 🤝 Open to collaborations and opportunities!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

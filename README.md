@@ -9,9 +9,6 @@ I am Justin, a Junior Penetration Tester with a strong passion in cyber security
 - 🧩 Problem Solving & Troubleshooting
 - 💻 Scripting (Bash, Python, C, Golang, Java, Rust, HTML, CSS, Javascript)
 
-# Contact Me 
-You can reach me at:
-- ✉️  jktonguino01@gmail.com 
-- 📚 https://medium.com/@justinkt
+# Ideas? Let’s Discuss!
 - 🤝 Open to collaborations and opportunities!
 

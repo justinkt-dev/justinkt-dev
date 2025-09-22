@@ -6,7 +6,7 @@ I am Justin, a Junior Security Researcher with a strong passion for cybersecurit
 - ⚙️ System Administration 
 - 🌐 Web Application Security
 - 🧩 Problem Solving & Troubleshooting
-- 💻 Scripting (Bash, Python, C, Golang, Java, Rust, HTML, CSS, Javascript)
+- 💻 Scripting (Bash, Python, C, Golang)
 
 # 🌍 Language Profeciency 🌎
 - 🇬🇧 English - Full proficiency 

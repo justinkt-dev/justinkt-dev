@@ -1,11 +1,11 @@
-# Welcome to my Github profile! 👋
-I am Justin, a Junior Security Researcher with a strong passion for cybersecurity, web development, system administration and all things cyber. Skilled in offensive security and other areas of Cyber Security, I thrive in both Windows and Linux environments, leveraging various resources to refine my skills and expertise.
-#  💪 Skills 💪
-- 🔐 VAPT
-- 🐧 Linux expertise 
+# 👋 Hello, I'm Justin
+I'm a Junior Security Researcher with a strong passion for cybersecurity, web development, system administration and all things cyber. Skilled in offensive security and other areas of Cyber Security, I thrive in both Windows and Linux environments, leveraging various resources to refine my skills and expertise.
+
+# 💪 Skills & Expertise
+- 🔐 Vulnerability Assessment & Penetration Testing (VAPT) 
+- 🎯 Red Teaming & Adversary Simulation
 - ⚙️ System Administration 
 - 🌐 Web Application Security
-- 🧩 Problem Solving & Troubleshooting
 - 💻 Scripting (Bash, Python, C, Golang)
 
 # 🌍 Language Profeciency 🌎
@@ -13,6 +13,6 @@ I am Justin, a Junior Security Researcher with a strong passion for cybersecurit
 - 🇫🇷 French - Full proficiency
 - 🇪🇸 Spanish - Limited proficiency
 
-# Ideas? Let’s Discuss!
-- 🤝 Open to collaborations and opportunities!
+# 💡 Ideas or Collaboration? Let's Chat!
+- 🤝 Always open to interesting security projects and collaborations. Feel free to reach out!
 

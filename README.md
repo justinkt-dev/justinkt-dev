@@ -10,21 +10,14 @@
 </div>
 
 ## 🚀 Current Focus Areas
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]()
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
-[![ZeroPointSecurity](https://img.shields.io/badge/ZeroPointSecurity-000000?style=for-the-badge&logo=shield&logoColor=white)]()
-[![Maldev Academy](https://img.shields.io/badge/Maldev_Academy-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
-
-[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
-[![Network Security](https://img.shields.io/badge/Network_Security-00D4AA?style=for-the-badge&logo=network&logoColor=white)]()
-[![Red Teaming](https://img.shields.io/badge/Red_Teaming-FF0000?style=for-the-badge&logo=target&logoColor=white)]()
-[![Malware Development](https://img.shields.io/badge/Malware_Development-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
-
-</div>
+- 🧪 **Learning on** TryHackMe • HackTheBox • ZeroPointSecurity • Maldev Academy 
+- 🏠 **Building** AD-Focused Home Lab Deployment and Adversary Simulation
+- 🎛️ **Interested In** Network Security • Red Teaming • Malware Development
 
 ## 🛠️ Technical Toolkit
+Python • Bash • C • Go 
+Linux • Red teaming • MalDev • PenTesting 
+Burp Suite • Metasploit • BloodHound • CrackMapExec • NetExec • C2 Frameworks 
 <div align="center">
   
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -47,6 +40,10 @@
 </div>
 
 ## 🏆 Certifications & Achievements 
+- HackTheBox Pro Labs: • RastaLabs • Offshore • Zephyr • Dante • POO
+- 🎯 CRTA [08/2025] • MCRTA [11/2024]
+- ☁️ ICCA [03/2024]
+- 🕵️ eJPTv2 [02/2024]
 <div align="center">
 
 [![RastaLabs](https://img.shields.io/badge/RastaLabs-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()

@@ -53,25 +53,15 @@
 - ☁️ **ICCA** [03/2025]
 - 🕵️ **eJPTv2** [02/2024]
 
-### 🏴‍☠️ HackTheBox Pro Labs
 [![RastaLabs](https://img.shields.io/badge/RastaLabs-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![Offshore](https://img.shields.io/badge/Offshore-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![Zephyr](https://img.shields.io/badge/Zephyr-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![Dante](https://img.shields.io/badge/Dante-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
-*Completed: September 2025*
 
-### 🎯 Red Team Certifications
 [![CRTA](https://img.shields.io/badge/CRTA-FF0000?style=for-the-badge&logo=target&logoColor=white)]()
 [![MCRTA](https://img.shields.io/badge/MCRTA-8B0000?style=for-the-badge&logo=target&logoColor=white)]()
-*CRTA: August 2025 | MCRTA: November 2024*
-
-### ☁️ Cloud Security
 [![ICCA](https://img.shields.io/badge/ICCA-00D4AA?style=for-the-badge&logo=cloud&logoColor=white)]()
-*Completed: March 2025*
-
-### 🕵️ Penetration Testing
 [![eJPTv2](https://img.shields.io/badge/eJPTv2-FF6B6B?style=for-the-badge&logo=shield-check&logoColor=white)]()
-*Completed: February 2024*
 
 ## 🤝 Let’s Connect & Collaborate
 Security roles · Open Source · Cybersecurity discussions · Red Teaming and MalDev Research

@@ -15,6 +15,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]()
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![ZeroPointSecurity](https://img.shields.io/badge/ZeroPointSecurity-000000?style=for-the-badge&logo=shield&logoColor=white)]()
+
 [![Maldev Academy](https://img.shields.io/badge/Maldev_Academy-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
 [![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
 [![Adversary Simulation](https://img.shields.io/badge/Adversary_Simulation-FF0000?style=for-the-badge&logo=target&logoColor=white)]()

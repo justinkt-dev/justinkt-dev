@@ -30,6 +30,7 @@
 ## 🤝 Let’s Connect & Collaborate
 <div align="center">
 **Open to**: Security roles · Open Source · Cybersecurity discussions · Red Teaming and MalDev research
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkt112/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://justinkt.medium.com)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:justinkombe.offsec@outlook.com)

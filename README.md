@@ -20,10 +20,6 @@
 - 🔧 Burp Suite • Metasploit • BloodHound • CrackMapExec • NetExec • C2 Frameworks
 
 ## 🏆 Certifications & Achievements 
-- 🏴‍☠️ HackTheBox Pro Labs: • RastaLabs • Offshore • Zephyr • Dante • POO
-- 🎯 CRTA [08/2025] • MCRTA [11/2024]
-- ☁️ ICCA [03/2024]
-- 🕵️ eJPTv2 [02/2024]
 <div align="center">
 
 [![RastaLabs](https://img.shields.io/badge/RastaLabs-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()

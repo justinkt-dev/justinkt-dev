@@ -15,9 +15,9 @@
 - 🎛️ **Interested In** Network Security • Red Teaming • Malware Development
 
 ## 🛠️ Technical Toolkit
-- 💻 Python • Bash • C • Go
-- 🐧 Linux • Red teaming • MalDev • PenTesting
-- 🔧 Burp Suite • Metasploit • BloodHound • CrackMapExec • NetExec • C2 Frameworks
+- 🧑‍💻 Python • Bash • C • Go
+- 🛡️ Linux • Red teaming • MalDev • PenTesting
+- 🧰 Burp Suite • Metasploit • BloodHound • CrackMapExec • NetExec • C2 Frameworks
 
 ## 🏆 Certifications & Achievements 
 <div align="center">

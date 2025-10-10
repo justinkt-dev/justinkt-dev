@@ -1,8 +1,7 @@
 # 👋 Hey there! I'm Justin
-
-### 🛡️ Cybersecurity Researcher | 🎯 Red Teaming & Adversary Simulation | 🔐 VAPT
-
 <div align="center">
+  
+### 🛡️ Cybersecurity Researcher | 🎯 Red Teaming & Adversary Simulation | 🔐 VAPT
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkt112/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://justinkt.medium.com)

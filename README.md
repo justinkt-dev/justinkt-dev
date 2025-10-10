@@ -10,9 +10,26 @@
 </div>
 
 ## 🚀 Current Focus Areas
+<div align="center">
+
+### 🧪 Learning Platforms
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]()
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
+
+### 🏠 Home Lab & Infrastructure
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Adversary Simulation](https://img.shields.io/badge/Adversary_Simulation-FF0000?style=for-the-badge&logo=target&logoColor=white)]()
+
+### 🎛️ Security Interests
+[![Network Security](https://img.shields.io/badge/Network_Security-00D4AA?style=for-the-badge&logo=network&logoColor=white)]()
+[![Red Teaming](https://img.shields.io/badge/Red_Teaming-FF0000?style=for-the-badge&logo=target&logoColor=white)]()
+[![Malware Development](https://img.shields.io/badge/Malware_Development-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
+
 - 🧪 Refining skills on TryHackMe & HackTheBox 
 - 🏠 Building AD-focused Home Lab Deployment and Adversary Simulation
 - 🎛️ Interested In Network Security · Red Teaming · Malware Development
+</div>
 
 ## 🛠️ Technical Toolkit
 <div align="center">

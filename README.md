@@ -55,7 +55,7 @@
 [![Dante](https://img.shields.io/badge/Dante-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 
 [![CRTA](https://img.shields.io/badge/CRTA-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
-[![MCRTA](https://img.shields.io/badge/MCRTA-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
+[![MCRTA](https://img.shields.io/badge/MCRTA-FF4500?style=for-the-badge&logo=server&logoColor=white)](
 [![ICCA](https://img.shields.io/badge/ICCA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![eJPT](https://img.shields.io/badge/eJPT-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
 
@@ -64,6 +64,7 @@
 ## 🤝 Let’s Connect & Collaborate
 <div align="center"> 
 Collaborative Project · Cybersecurity discussions · Red Teaming and MalDev Research
+
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkt112/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://justinkt.medium.com)

@@ -62,7 +62,7 @@
 </div>
 
 ## 🤝 Let’s Connect & Collaborate
-### Collaborative Project · Cybersecurity discussions · Red Teaming and MalDev Research
+#### Collaborative Project · Cybersecurity discussions · Red Teaming and MalDev Research
 <div align="center"> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkt112/)

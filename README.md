@@ -63,8 +63,7 @@
 
 ## 🤝 Let’s Connect & Collaborate
 <div align="center"> 
-**Security roles · Open Source · Cybersecurity discussions · Red Teaming and MalDev Research
-**  
+**Security roles · Open Source · Cybersecurity discussions · Red Teaming and MalDev Research**
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkt112/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://justinkt.medium.com)

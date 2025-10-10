@@ -17,14 +17,14 @@
 
 ## 🛠️ Technical Toolkit
 - Python · Bash · C · Go (Golang)
-- Linux · Red Teaming · Malware Dev · PenTesting
+- Linux · Red Teaming · MalDev · PenTesting
 - Burp Suite · Metasploit · BloodHound · CrackMapExec · NetExec · C2 Frameworks
 
 ## 🏆 Certifications & Achievements 
-- 🛡️ HTB Pro Labs: RastaLabs · Offshore · Zephyr · Dante [09/2025]
-- 🎯 CRTA [08/2025] · MCRTA [11/2024]
-- ☁️ ICCA [03/2025]
-- 🕵️ eJPTv2 [02/2024]
+- 🛡️ **HTB Pro Labs**: RastaLabs · Offshore · Zephyr · Dante [09/2025]
+- 🎯 **CRTA** [08/2025] · **MCRTA** [11/2024]
+- ☁️ **ICCA** [03/2025]
+- 🕵️ **eJPTv2** [02/2024]
 
 
 ## 🤝 Let’s Connect & Collaborate

@@ -58,10 +58,10 @@
 [![Zephyr](https://img.shields.io/badge/Zephyr-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![Dante](https://img.shields.io/badge/Dante-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 
-[![CRTA](https://img.shields.io/badge/CRTA-FF0000?style=for-the-badge&logo=target&logoColor=white)]()
+[![CRTA - 08/2025](https://img.shields.io/badge/CRTA-FF0000?style=for-the-badge&logo=target&logoColor=white)]()
 [![MCRTA](https://img.shields.io/badge/MCRTA-8B0000?style=for-the-badge&logo=target&logoColor=white)]()
 [![ICCA](https://img.shields.io/badge/ICCA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![eJPTv2](https://img.shields.io/badge/eJPTv2-FF6B6B?style=for-the-badge&logo=shield-check&logoColor=white)]()
+[![eJPTv2](https://img.shields.io/badge/eJPTv2-8B0000?style=for-the-badge&logo=target&logoColor=white)]()
 
 ## 🤝 Let’s Connect & Collaborate
 Security roles · Open Source · Cybersecurity discussions · Red Teaming and MalDev Research

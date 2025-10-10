@@ -7,24 +7,14 @@ Fresh Computer Science graduate specializing in Cybersecurity
 [📝 Blog](https://justinkt.medium.com) · [✉️ Email](mailto:justinkombe.offsec@outlook.com) · [🔗 LinkedIn](https://www.linkedin.com/in/jkt112/)
 
 
-## 🚀 Focus Areas (Now)
-
+## 🚀 Current Focus Areas
 - 🧪 Practicing: TryHackMe & HackTheBox — sharpening pentest skills
-- 🧱 Building: AD-focused Docker homelab (Pi‑hole, Nextcloud, Jellyfin)
+- 🏠 Building: AD-focused Home Lab Deployment and Adversary Simulation
 - 🎛️ Interests: Network Security · Red Teaming · Malware Development
 
-## 🧰 Technical Toolkit
-
-### 💻 Languages & Frameworks
-
+## 🛠️ Technical Toolkit
 - Python · Bash · C · Go (Golang)
-
-### 🧪 Security & DevOps
-
 - Linux · Red Teaming · Malware Dev · PenTesting
-
-### 🛠️ Security Tools
-
 - Burp Suite · Metasploit · Nessus · BloodHound · CrackMapExec · NetExec
 
 ## 🏆 Certifications & Achievements 
@@ -39,15 +29,7 @@ Fresh Computer Science graduate specializing in Cybersecurity
 - TryHackMe · HackTheBox · ZeroPointSecurity
 
 ## 🤝 Let’s Connect & Collaborate
-
-Open to: Security roles · Open Source · Cybersecurity discussions
-
-Topics I enjoy discussing:
-- 🔍 Penetration testing techniques & methodology
-- 🛡️ Red Teaming and MalDev research
-- 🏠 Homelab setups and self‑hosting
-
-Blog Post: https://justinkt.medium.com
+Security roles · Open Source · Cybersecurity discussions · Red Teaming and MalDev research
 
 ## 🔗 Social & Contact
 

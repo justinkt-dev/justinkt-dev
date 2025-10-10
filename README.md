@@ -6,15 +6,12 @@ Fresh Computer Science graduate specializing in Cybersecurity
 
 [📝 Blog](https://justinkt.medium.com) · [✉️ Email](mailto:justinkombe.offsec@outlook.com) · [🔗 LinkedIn](https://www.linkedin.com/in/jkt112/)
 
----
 
 ## 🚀 Focus Areas (Now)
 
 - 🧪 Practicing: TryHackMe & HackTheBox — sharpening pentest skills
 - 🧱 Building: AD-focused Docker homelab (Pi‑hole, Nextcloud, Jellyfin)
 - 🎛️ Interests: Network Security · Red Teaming · Malware Development
-
----
 
 ## 🧰 Technical Toolkit
 
@@ -30,33 +27,16 @@ Fresh Computer Science graduate specializing in Cybersecurity
 
 - Burp Suite · Metasploit · Nessus · BloodHound · CrackMapExec · NetExec
 
----
-
 ## 🏆 Certifications & Achievements 
 
 **Recent Achievements**
-- 🧪 HackTheBox Pro Labs: RastaLabs · Offshore · Zephyr · Dante
-- 🎯 CRTA · MCRTA
-- 🕵️ eJPT v2
-- ☁️ ICCA 
-- 🛡️ Google Cybersecurity Professional
+- 🛡️ HTB Pro Labs: RastaLabs · Offshore · Zephyr · Dante [09/2025]
+- 🎯 CRTA [08/2025] · MCRTA [11/2024]
+- ☁️ ICCA [03/2025]
+- 🕵️ eJPTv2 [02/2024]
   
-**Dates / Links**
-- 🧪 HTB Pro Labs (2024): [RastaLabs](#) · [Offshore](#) · [Zephyr](#) · [Dante](#)
-- 🎯 CRTA (2024) · MCRTA (2025)
-
-**Currently Learning**
+**Currently Learning On**
 - TryHackMe · HackTheBox · ZeroPointSecurity
-
----
-
-## 📊 GitHub Analytics (placeholders)
-
-<!-- Badges/examples you can enable later -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USER&theme=dark) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER&layout=compact&theme=dark) -->
-
----
 
 ## 🤝 Let’s Connect & Collaborate
 
@@ -67,23 +47,7 @@ Topics I enjoy discussing:
 - 🛡️ Red Teaming and MalDev research
 - 🏠 Homelab setups and self‑hosting
 
-Portfolio/Blog: https://justinkt.medium.com
-
----
-
-> “Security is not a product, but a process of continuous improvement.”
-
-🎓 Fresh Graduate · 🔍 Always Learning · 🌐 Security Enthusiast
-
----
-
-## 📌 Pinned Projects (examples)
-
-1) Portfolio Website — TypeScript/React (add repo link)
-2) Homelab IaC — Docker Compose + Ansible (add repo link)
-3) Red/Blue Team Playbooks — Detection & tradecraft (add repo link)
-
----
+Blog Post: https://justinkt.medium.com
 
 ## 🔗 Social & Contact
 

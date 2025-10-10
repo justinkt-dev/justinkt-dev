@@ -50,11 +50,6 @@
 ## 🏆 Certifications & Achievements 
 <div align="center">
 
-- 🛡️ **HTB Pro Labs**: RastaLabs · Offshore · Zephyr · Dante [09/2025]
-- 🎯 **CRTA** [08/2025] · **MCRTA** [11/2024]
-- ☁️ **ICCA** [03/2025]
-- 🕵️ **eJPTv2** [02/2024]
-
 [![RastaLabs](https://img.shields.io/badge/RastaLabs-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![Offshore](https://img.shields.io/badge/Offshore-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![Zephyr](https://img.shields.io/badge/Zephyr-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()

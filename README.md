@@ -15,6 +15,8 @@
 - 🎛️ Interested In Network Security · Red Teaming · Malware Development
 
 ## 🛠️ Technical Toolkit
+<div align="center">
+
 ### 💻 Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
@@ -34,6 +36,8 @@
 [![CrackMapExec](https://img.shields.io/badge/CrackMapExec-000000?style=for-the-badge&logo=terminal&logoColor=white)]()
 [![NetExec](https://img.shields.io/badge/NetExec-000000?style=for-the-badge&logo=network&logoColor=white)]()
 [![C2 Frameworks](https://img.shields.io/badge/C2_Frameworks-FF4500?style=for-the-badge&logo=server&logoColor=white)]()
+
+</div>
 
 ## 🏆 Certifications & Achievements 
 - 🛡️ **HTB Pro Labs**: RastaLabs · Offshore · Zephyr · Dante [09/2025]

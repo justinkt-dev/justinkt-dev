@@ -10,7 +10,7 @@
 </div>
 
 ## 🚀 Current Focus Areas
-- 📚 **Learning on** TryHackMe • HackTheBox • ZeroPointSecurity • Maldev Academy 
+- 📚 **Learning on** HackTheBox • ZeroPointSecurity • Maldev Academy 
 - 🏠 **Building** AD-Focused Home Lab Deployment and Adversary Simulation
 - 🎛️ **Interested In** Network Security • Red Teaming • Malware Development
 

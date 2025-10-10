@@ -22,11 +22,6 @@
 ## 🏆 Certifications & Achievements 
 <div align="center">
 
-[![RastaLabs](https://img.shields.io/badge/RastaLabs-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
-[![Offshore](https://img.shields.io/badge/Offshore-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
-[![Zephyr](https://img.shields.io/badge/Zephyr-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
-[![Dante](https://img.shields.io/badge/Dante-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
-
 [![RastaLabs](https://img.shields.io/badge/RastaLabs-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![Offshore](https://img.shields.io/badge/Offshore-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![Zephyr](https://img.shields.io/badge/Zephyr-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=black)]()

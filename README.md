@@ -11,9 +11,9 @@
 </div>
 
 ## 🚀 Current Focus Areas
-- 📚 **Learning on** HackTheBox • ZeroPointSecurity • Maldev Academy 
+- 📚 **Learning on** HackTheBox • ZeroPointSecurity • Maldev Academy • WhiteKnightLabs
 - 🏠 **Building** AD-Focused Home Lab Deployment and Adversary Simulation
-- 🎛️ **Interested In** Network Security • Red Teaming • Malware Development
+- 🎛️ **Interested In** Network Security • Red Teaming • EDR Bypass • OT Security 
 
 ## 🛠️ Technical Toolkit
 - 🧑‍💻 Python • Bash • C • Go

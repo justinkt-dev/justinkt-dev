@@ -28,11 +28,12 @@
 [![Zephyr](https://img.shields.io/badge/Zephyr-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![Dante](https://img.shields.io/badge/Dante-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 
-[![CRTL](https://img.shields.io/badge/CRTO-8B0000?style=for-the-badge&logo=biohazard&logoColor=grey)]()
+[![CRTO2](https://img.shields.io/badge/CRTO%20II-8B0000?style=for-the-badge&logo=biohazard&logoColor=grey)]()
 [![CRTO](https://img.shields.io/badge/CRTO-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
-[![CPTS](https://img.shields.io/badge/CPTS-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=white)]()
+[![CRTS](https://img.shields.io/badge/CRTS-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
 [![CRTA](https://img.shields.io/badge/CRTA-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
 [![MCRTA](https://img.shields.io/badge/MCRTA-FF4500?style=for-the-badge&logo=server&logoColor=white)]()
+[![CPTS](https://img.shields.io/badge/CPTS-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=white)]()
 [![ICCA](https://img.shields.io/badge/ICCA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![eJPT](https://img.shields.io/badge/eJPT-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
 

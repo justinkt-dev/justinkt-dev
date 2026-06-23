@@ -28,6 +28,7 @@
 [![Zephyr](https://img.shields.io/badge/Zephyr-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 [![Dante](https://img.shields.io/badge/Dante-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=black)]()
 
+[![CRTL](https://img.shields.io/badge/CRTO-8B0000?style=for-the-badge&logo=biohazard&logoColor=grey)]()
 [![CRTO](https://img.shields.io/badge/CRTO-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()
 [![CPTS](https://img.shields.io/badge/CPTS-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=white)]()
 [![CRTA](https://img.shields.io/badge/CRTA-8B0000?style=for-the-badge&logo=biohazard&logoColor=white)]()

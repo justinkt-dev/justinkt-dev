@@ -3,7 +3,7 @@
   
 ### 🛡️ Security Researcher | 🎯 Red Team Enthusiast | 🔐 VAPT
   
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://justinkombe.xyz)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://justinkombe.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkt112/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://justinkt.medium.com)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:justinkombe.offsec@outlook.com)
@@ -12,12 +12,12 @@
 
 ## 🚀 Current Focus Areas
 - 📚 **Learning on** HackTheBox • ZeroPointSecurity • Maldev Academy • WhiteKnightLabs
-- 🏠 **Building** AD-Focused Home Lab Deployment and Adversary Simulation
+- 🏠 **Building** AD-Focused Home Lab Deployment and Advanced Toolkits
 - 🎛️ **Interested In** Network Security • Red Teaming • EDR Bypass • OT Security 
 
 ## 🛠️ Technical Toolkit
-- 🧑‍💻 Python • Bash • C • Go
-- 🛡️ Linux • Red teaming • MalDev • PenTesting
+- 🧑‍💻 Python • Bash • C • Go • Rust 
+- 🛡️ AppSec • Red Teaming • PenTesting • MalDev • EDR Bypass 
 - 🧰 Burp Suite • Metasploit • BloodHound • CrackMapExec • NetExec • C2 Frameworks
 
 ## 🏆 Certifications & Achievements 
